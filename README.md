@@ -15,6 +15,15 @@ This project consists of two main components:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+Preprocessed dataset can be downloaded from the link below:
+
+- **Google Drive**:  
+  https://drive.google.com/file/d/1-8ze5GPcLgh85M1lO9wjiz1piOcZL5JV/view?usp=sharing
+
+After downloading, extract the contents so that the directory structure matches the following format.
+
 ## Data Preparation
 
 Data should be provided in preprocessed `.pt` file format:
